@@ -3,28 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-function App() {
-
+const App = () =>{
   return (
-    <>
-      <h1>Hello</h1>
-      <p>It is the first session of React class in the code to inspire</p>
-      <ul>
-        <li>
-        Potato 
-        </li>
-        <li>
-          Tomato
-        </li>
-        <li>
-          Carote
-        </li>
-        <li>
-          banana
-        </li>
-      </ul>
-    </>
-  );
+  <>
+  <h1>
+    React
+  </h1>
+  <p>
+    react is the library of JavaScript that works component base. 
+  </p>
+  </>
+  )
 }
-
-export default App
