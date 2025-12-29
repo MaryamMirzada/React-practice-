@@ -7,9 +7,10 @@ function App() {
 
   return (
     <>
-    
+      <h1>Hello</h1>
+      <p>It is the first session of React class in the code to inspire</p>
     </>
-  )
+  );
 }
 
 export default App
