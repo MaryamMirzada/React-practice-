@@ -9,6 +9,20 @@ function App() {
     <>
       <h1>Hello</h1>
       <p>It is the first session of React class in the code to inspire</p>
+      <ul>
+        <li>
+        Potato 
+        </li>
+        <li>
+          Tomato
+        </li>
+        <li>
+          Carote
+        </li>
+        <li>
+          banana
+        </li>
+      </ul>
     </>
   );
 }
